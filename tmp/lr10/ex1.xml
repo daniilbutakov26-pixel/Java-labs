@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+    </book>
+    <book>
+        <title>Вино из одуванчиков</title>
+        <author>Рэй Брэдбери</author>
+        <year>1957</year>
+    </book>
+    <book>
+        <title>Метафизика</title>
+        <author>Аристотель</author>
+        <year>IV век до н.э.</year>
+    </book>
+</library>
